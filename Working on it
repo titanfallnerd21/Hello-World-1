@@ -1,2 +1,4 @@
 create 'branch'
 name branch 'master'
+create 'branch'
+name branch 'second'
